@@ -1,0 +1,6 @@
+id=blackui
+name=Hello UI Pitch Black
+version=v1.0
+versionCode=1
+author=you
+description=Pure black (AMOLED) dark theme for Motorola Hello UI via fabricated overlays, with a watcher that re-applies after SystemUI restarts.
